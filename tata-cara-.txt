@@ -1,0 +1,11 @@
+git init
+
+git remote add origin https://github.com/salfapebrioliazahra/pwb-salfa1.git (link repo)
+
+git branch -m main
+
+git add .
+
+git commit -m "bebas contoh"
+
+git push -u origin main
